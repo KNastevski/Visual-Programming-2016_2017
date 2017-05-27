@@ -1,0 +1,8 @@
+D:\Kristijan\Факултет\Семестар 4\Визуелно Програмирање\Семинарска Visual Programming\Konverzija na valuti\Konverzija na valuti\bin\Debug\Konverzija na valuti.exe
+D:\Kristijan\Факултет\Семестар 4\Визуелно Програмирање\Семинарска Visual Programming\Konverzija na valuti\Konverzija na valuti\bin\Debug\Konverzija na valuti.pdb
+D:\Kristijan\Факултет\Семестар 4\Визуелно Програмирање\Семинарска Visual Programming\Konverzija na valuti\Konverzija na valuti\obj\x86\Debug\Konverzija_na_valuti.Properties.Resources.resources
+D:\Kristijan\Факултет\Семестар 4\Визуелно Програмирање\Семинарска Visual Programming\Konverzija na valuti\Konverzija na valuti\obj\x86\Debug\Konverzija na valuti.csproj.GenerateResource.Cache
+D:\Kristijan\Факултет\Семестар 4\Визуелно Програмирање\Семинарска Visual Programming\Konverzija na valuti\Konverzija na valuti\obj\x86\Debug\Konverzija na valuti.exe
+D:\Kristijan\Факултет\Семестар 4\Визуелно Програмирање\Семинарска Visual Programming\Konverzija na valuti\Konverzija na valuti\obj\x86\Debug\Konverzija na valuti.pdb
+D:\Kristijan\Факултет\Семестар 4\Визуелно Програмирање\Семинарска Visual Programming\Konverzija na valuti\Konverzija na valuti\obj\x86\Debug\Konverzija na valuti.csprojResolveAssemblyReference.cache
+D:\Kristijan\Факултет\Семестар 4\Визуелно Програмирање\Семинарска Visual Programming\Konverzija na valuti\Konverzija na valuti\obj\x86\Debug\Konverzija_na_valuti.Menuvacnica.resources

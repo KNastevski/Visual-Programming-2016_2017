@@ -1,0 +1,17 @@
+D:\Kristijan\Факултет\Семестар 4\Визуелно Програмирање\Семинарска Visual Programming\Menuvacnica\Menuvacnica\obj\x86\Debug\Konverzija na valuti.exe
+D:\Kristijan\Факултет\Семестар 4\Визуелно Програмирање\Семинарска Visual Programming\Menuvacnica\Menuvacnica\obj\x86\Debug\Konverzija na valuti.pdb
+D:\Kristijan\Факултет\Семестар 4\Визуелно Програмирање\Проект\Проект - Менувачница\Menuvacnica\Menuvacnica\obj\x86\Debug\Konverzija na valuti.exe
+D:\Kristijan\Факултет\Семестар 4\Визуелно Програмирање\Проект\Проект - Менувачница\Menuvacnica\Menuvacnica\obj\x86\Debug\Konverzija na valuti.pdb
+D:\Kristijan\Факултет\Семестар 4\Визуелно Програмирање\Проект\Проект - Менувачница\Menuvacnica\Menuvacnica\bin\Debug\Konverzija na valuti.exe
+D:\Kristijan\Факултет\Семестар 4\Визуелно Програмирање\Проект\Проект - Менувачница\Menuvacnica\Menuvacnica\bin\Debug\Konverzija na valuti.pdb
+D:\Kristijan\Факултет\Семестар 4\Визуелно Програмирање\Проект\Проект - Менувачница\Menuvacnica\Menuvacnica\obj\x86\Debug\Konverzija_na_valuti.Menuvacnica.resources
+D:\Kristijan\Факултет\Семестар 4\Визуелно Програмирање\Проект\Проект - Менувачница\Menuvacnica\Menuvacnica\obj\x86\Debug\Konverzija_na_valuti.Properties.Resources.resources
+D:\Kristijan\Факултет\Семестар 4\Визуелно Програмирање\Проект\Проект - Менувачница\Menuvacnica\Menuvacnica\obj\x86\Debug\Menuvacnica.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Menuvacnica\Menuvacnica\obj\x86\Debug\Konverzija na valuti.exe
+C:\Users\User\Desktop\Menuvacnica\Menuvacnica\obj\x86\Debug\Konverzija na valuti.pdb
+C:\Users\User\Desktop\Menuvacnica\Menuvacnica\bin\Debug\Konverzija na valuti.exe
+C:\Users\User\Desktop\Menuvacnica\Menuvacnica\bin\Debug\Konverzija na valuti.pdb
+C:\Users\User\Desktop\Menuvacnica\Menuvacnica\obj\x86\Debug\Konverzija_na_valuti.Menuvacnica.resources
+C:\Users\User\Desktop\Menuvacnica\Menuvacnica\obj\x86\Debug\Konverzija_na_valuti.Properties.Resources.resources
+C:\Users\User\Desktop\Menuvacnica\Menuvacnica\obj\x86\Debug\Konverzija_na_valuti.SnakeGame.resources
+C:\Users\User\Desktop\Menuvacnica\Menuvacnica\obj\x86\Debug\Menuvacnica.csproj.GenerateResource.Cache
